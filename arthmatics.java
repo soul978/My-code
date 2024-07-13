@@ -8,7 +8,7 @@ public class arthmatics {
         int no_1 = sc.nextInt();
         System.out.print("Enter the Second numbers : ");
         int no_2 = sc.nextInt();
-        int result = no_1-no_2;
+        int result = no_1+no_2;
         System.out.println();
         System.out.print("The division resultant is : "+no_1+" + "+no_2+" = "+result);
 
